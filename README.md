@@ -11,7 +11,7 @@ Setting Up
 All code is available here [https://github.com/SickSad/UKPR0nFilter](https://github.com/SickSad/UKPR0nFilter)
 
 Just follow this simple step-by-step video walk-through and you'll have a porn filter running in no time!
-{% youtube xJfyNwM6Lw8 %}
+[http://www.youtube.com/watch?v=xJfyNwM6Lw8](http://www.youtube.com/watch?v=xJfyNwM6Lw8)
 
 Nerd Stuff
 ==========
